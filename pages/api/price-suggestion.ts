@@ -1,0 +1,1 @@
+/* API com Puppeteer e OpenAI (placeholder) */
